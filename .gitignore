@@ -134,3 +134,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pt
+*.jpg
+CifarModel/
+CIFAR10/
+*.xml
+dataset/
+imgs/
+logs/
+nnmodulelogs/
+.idea/
