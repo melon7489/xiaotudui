@@ -140,7 +140,6 @@ CifarModel/
 CIFAR10/
 *.xml
 dataset/
-imgs/
 logs/
 nnmodulelogs/
 .idea/
